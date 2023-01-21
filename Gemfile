@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
     gem 'wdm', '>= 0.1.0', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+    gem 'jekyll-sitemap'
     gem 'jekyll'
     gem 'jekyll-archives'
     gem 'jekyll-diagrams'
