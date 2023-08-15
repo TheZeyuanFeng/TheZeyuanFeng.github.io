@@ -1,4 +1,7 @@
+User-agent: Googlebot
+Disallow: /
+
 User-agent: *
-Disallow:
+Allow: /
 
 Sitemap: https://thezeyuanfeng.github.io/sitemap.xml
